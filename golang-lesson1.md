@@ -1,6 +1,0 @@
-#  golang  lesson1   
-
-
-
-
-
